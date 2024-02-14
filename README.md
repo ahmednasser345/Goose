@@ -1,2 +1,2 @@
 # Goose
-Guessing Game
+Mini guessing Game
